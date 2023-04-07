@@ -15,3 +15,6 @@ Patreon, Buy me a Coffee
 Can be deployed on a cloud platform such as Heroku or AWS Elastic Beanstalk
 
 ## Thank You!
+
+## Copyright
+Git Training 2023
