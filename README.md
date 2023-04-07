@@ -13,3 +13,5 @@ Patreon, Buy me a Coffee
 ## Deployment
 
 Can be deployed on a cloud platform such as Heroku or AWS Elastic Beanstalk
+
+## Thank You!
